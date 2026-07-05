@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#dealer-cards img, #player-cards img  {
+    height: 155px;
+    width: 105px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.40);
+}
+
+#hit-button, #stay-button {
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+}
