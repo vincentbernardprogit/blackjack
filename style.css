@@ -2,6 +2,7 @@ body {
     background-color: #0F933D;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
 }
 
 #dealer-cards img, #player-cards img  {
@@ -16,4 +17,5 @@ body {
     width: 80px;
     height: 40px;
     font-size: 20px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.40);
 }
